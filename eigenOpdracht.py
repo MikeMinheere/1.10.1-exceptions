@@ -1,7 +1,7 @@
 
 b = True
 while b == True:
-    a = input('vul iets in: ')
+    a = input('vul een woord in: ')
     try:
         a = int(a)
     except:
